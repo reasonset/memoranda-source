@@ -4,6 +4,8 @@ date: 2020-02-23
 pagetype: recent
 ---
 
+* [ニュルブルクリンク 24時間レース 観戦の手引き 2020](/articles/motor/202002-car-race-nbr24.html) @2020-02-23
+* [(4輪) レース観戦の初歩 1](/articles/motor/202002-car-race-basic1.html) @2020-02-23
 * [バーチャルYouTuberのおはなし](/articles/soc/202002-vtuber.html) @2020-02-23
 * [Amazonレビューの読み解き方](/articles/soc/202001-amazon-review.html) @2020-01-18
 * [ゆずソフトとパティスリーの騒動の話](/articles/soc/202001-reaper-stella.html) @2020-01-17
