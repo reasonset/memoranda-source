@@ -1,0 +1,7 @@
+/.hg*
+/.htaccess
+.indexes.rbm
+.index.*
+/apps
+/.comments
+/robots.txt

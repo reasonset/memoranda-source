@@ -1,0 +1,8 @@
+outdir: ../Build
+toc: yes
+post_eruby: no
+pandoc_additional_options:
+        - "-M"
+        - "author:まさきはるか"
+testserver_port: 20088
+accs_order: desc
